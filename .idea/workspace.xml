@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="catch_the_drop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44edb0f8-eaef-41f7-a361-8d1dd1984f5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paintCom</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Xx0QkLebQX3aFuZodu3iS4TVFI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/TestWebServer" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.kulankhin.catch_the_drop.GameWindow" />
+      <module name="catch_the_drop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44edb0f8-eaef-41f7-a361-8d1dd1984f5d" name="Default Changelist" comment="" />
+      <created>1570883629766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570883629766</updated>
+      <workItem from="1581972425713" duration="1176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1581972451436">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1581972451436" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581973477452">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1581973477452" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581973436249">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1581973436249" />
+    <state x="503" y="179" key="EnvironmentVariablesDialog" timestamp="1581973452400">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="503" y="179" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1581973452400" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1581973619404">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581973619404" />
+    <state width="1493" height="246" key="GridCell.Tab.0.bottom" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state width="1493" height="246" key="GridCell.Tab.0.center" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state width="1493" height="246" key="GridCell.Tab.0.left" timestamp="1581973084284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581973084284" />
+    <state width="1493" height="246" key="GridCell.Tab.0.right" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state width="1493" height="246" key="GridCell.Tab.1.bottom" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state width="1493" height="246" key="GridCell.Tab.1.center" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state width="1493" height="246" key="GridCell.Tab.1.left" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state width="1493" height="246" key="GridCell.Tab.1.right" timestamp="1581973084286">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1581973084286" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581973333047">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581973333047" />
+    <state x="209" y="37" key="new project wizard" timestamp="1581973583449">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="37" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1581973583449" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1581973347980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1581973347980" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1581973341362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581973341362" />
+  </component>
+</project>
